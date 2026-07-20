@@ -17,7 +17,7 @@ L'objectif du projet : concevoir une alternative souveraine et économique — d
 | | Résultat |
 | --- | --- |
 | 💶 Coût matériel du serveur complet | **113 €** (Raspberry Pi 4) |
-| 💶 Coût d'une borne de télémesure | **??? €** (Raspberry Pi 4) |
+| 💶 Coût d'une borne de télémesure | **245 €** (Raspberry Pi 4) |
 | 📡 Abonnements / dépendances cloud | **0 €** |
 | 🔑 Licences logicielles | **0 €** (tout open-source) |
 | 🐳 Conteneurs Docker orchestrés | **6** sur un seul Raspberry Pi 4 |
