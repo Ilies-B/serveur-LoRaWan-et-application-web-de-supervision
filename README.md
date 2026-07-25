@@ -3,8 +3,7 @@
 **Station IoT LoRaWAN de suivi climatique des vignes alsaciennes**, de la mesure sur le terrain jusqu'à la supervision web en temps réel.
 
 > 🎓 Projet de fin d'études **BTS CIEL** (Lycée Louis Armand, Mulhouse — promotion 2026), réalisé avec le **CIVA** (Conseil Interprofessionnel des Vins d'Alsace) comme partenaire industriel. Projet pédagogique, sans contrat commercial.
->
-> 📁 Le code source est hébergé dans un dépôt privé d'organisation scolaire. Ce dépôt présente l'architecture, les choix techniques et les résultats — des extraits peuvent être fournis sur demande.
+
 
 ![Dashboard temps réel](docs/dashboard-temps-reel.png)
 
