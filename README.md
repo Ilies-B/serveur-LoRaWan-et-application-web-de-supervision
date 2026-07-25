@@ -47,12 +47,12 @@ L'infrastructure complète se lance avec une seule commande : `docker compose up
 | 📡 **Multi-bornes natif** | Registre dynamique côté serveur + interface auto-adaptative : une borne inconnue qui émet crée automatiquement ses jauges, son marqueur et son bouton de sélection |
 
 <p align="center">
-  <img src="docs/wireframes-app-web.png" alt="Historique Chart.js" width="70%">
+  <img src="docs/wireframes-app-web.png" alt="Historique Chart.js" width="100%">
 </p>
 <p align="center">
-  <img src="docs/cartes-leaflet.png" alt="Page de connexion" width="55%">&nbsp;
-  <img src="docs/dashboard-temps-reel.png" alt="Page de connexion" width="55%">&nbsp;
-  <img src="docs/graphiques-chartJS.png" alt="Page de connexion" width="55%">&nbsp;
+  <img src="docs/cartes-leaflet.png" alt="Page de connexion" width="100%">&nbsp;
+  <img src="docs/dashboard-temps-reel.png" alt="Page de connexion" width="100%">&nbsp;
+  <img src="docs/graphiques-chartJS.png" alt="Page de connexion" width="100%">&nbsp;
 </p>
 
 ## 🔒 Sécurité
