@@ -5,7 +5,7 @@
 > 🎓 Projet de fin d'études **BTS CIEL** (Lycée Louis Armand, Mulhouse — promotion 2026), réalisé avec le **CIVA** (Conseil Interprofessionnel des Vins d'Alsace) comme partenaire industriel. Projet pédagogique, sans contrat commercial.
 
 
-![Dashboard temps réel](docs/contrat-individuelle.png)
+![Contrat individuel](docs/contrat-individuelle.png)
 
 ## 🎯 Le besoin
 
