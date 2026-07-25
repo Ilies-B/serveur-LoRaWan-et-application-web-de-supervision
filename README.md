@@ -5,7 +5,7 @@
 > 🎓 Projet de fin d'études **BTS CIEL** (Lycée Louis Armand, Mulhouse — promotion 2026), réalisé avec le **CIVA** (Conseil Interprofessionnel des Vins d'Alsace) comme partenaire industriel. Projet pédagogique, sans contrat commercial.
 
 
-![Dashboard temps réel](docs/dashboard-temps-reel.png)
+![Dashboard temps réel](docs/contrat-individuelle.png)
 
 ## 🎯 Le besoin
 
@@ -47,11 +47,12 @@ L'infrastructure complète se lance avec une seule commande : `docker compose up
 | 📡 **Multi-bornes natif** | Registre dynamique côté serveur + interface auto-adaptative : une borne inconnue qui émet crée automatiquement ses jauges, son marqueur et son bouton de sélection |
 
 <p align="center">
-  <img src="docs/historique-chartjs.png" alt="Historique Chart.js" width="70%">
+  <img src="docs/wireframes-app-web.png" alt="Historique Chart.js" width="70%">
 </p>
 <p align="center">
-  <img src="docs/page-connexion.png" alt="Page de connexion" width="55%">&nbsp;
-  <img src="docs/vue-mobile.png" alt="Vue mobile responsive" width="18%">
+  <img src="docs/cartes-leaflet.png" alt="Page de connexion" width="55%">&nbsp;
+  <img src="docs/dashboard-temps-reel.png" alt="Page de connexion" width="55%">&nbsp;
+  <img src="docs/graphiques-chartJS.png" alt="Page de connexion" width="55%">&nbsp;
 </p>
 
 ## 🔒 Sécurité
@@ -73,9 +74,14 @@ Quelques problèmes réels rencontrés et leurs solutions — souvent plus instr
 
 ## ✅ Validation
 
-Le système a été validé par un **cahier de recette** formel : tests d'acceptation couvrant la chaîne complète (réception LoRa, décodage, historisation, temps réel, alertes, authentification), chacun avec procédure d'exécution et résultat attendu mesurable.
+Le système a été validé par des **cahiers de recettes** formel : tests d'acceptation couvrant la chaîne complète (réception LoRa, décodage, historisation, temps réel, alertes, authentification), chacun avec procédure d'exécution et résultat attendu mesurable.
 
-![Dashboard ChirpStack](docs/chirpstack-dashboard.png)
+![1](docs/CdR-acquisition-des-données.png)
+![2](docs/CdR-visualisation-temps-réel.png)
+![3](docs/CdR-autentification.png)
+![4](docs/CdR-système-d'alerte.png)
+![5](docs/CdR-sécurité-des-données.png)
+
 
 ## 🛠️ Stack technique
 
