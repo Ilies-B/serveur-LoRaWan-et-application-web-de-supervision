@@ -1,3 +1,10 @@
+# Présentation
+Conception d'une chaîne complète d'acquisition et de traitement de données pour le suivi scientifique de parcelles de vignes.
+**Orchestration & DevOps :** Déploiement de l'infrastructure sous forme de micro-services conteneurisés avec Docker & Docker Compose.
+**Intégration Réseau :** Configuration du backend de communication LoRaWAN (ChirpStack) et gestion des flux de données via le protocole MQTT.
+**Data Engineering :** Mise en œuvre d'une base de données TSDB (InfluxDB). Choisie pour son interopérabilité native avec ChirpStack, et sa modélisation optimisée des séries temporelles.
+**Conception Full-Stack :** Développement d'une application de supervision sous Node.js, intégrant la visualisation de données en temps réel et l'implémentation d'algorithmes d'alerte.
+
 # 🍇 Borne de Télémesure Viticole — CIVA Monitoring
 
 **Station IoT LoRaWAN de suivi climatique des vignes alsaciennes**, de la mesure sur le terrain jusqu'à la supervision web en temps réel.
